@@ -1,0 +1,26 @@
+Message,Label
+"Congratulations! You have won a free prize. Claim now!",spam
+"URGENT! You have been selected for a cash reward.",spam
+"Win a free phone by clicking this offer.",spam
+"Limited time offer! Buy now and save big.",spam
+"Claim your exclusive bonus today.",spam
+"Your account has won a special lottery prize.",spam
+"Get free entry into our lucky draw.",spam
+"Act now to receive your cash reward.",spam
+"Lowest prices available, click to shop now.",spam
+"You are a lucky winner. Claim your gift today.",spam
+"Hi, are we still meeting for lunch tomorrow?",ham
+"Please send me the report when you have time.",ham
+"The meeting starts at 10 AM in the conference room.",ham
+"Thanks for your help with the project.",ham
+"Can you call me when you are available?",ham
+"I have attached the notes from today's class.",ham
+"Please confirm your appointment for next week.",ham
+"Your package will arrive tomorrow afternoon.",ham
+"Let's review the assignment together this evening.",ham
+"Could you share the presentation with the team?",ham
+"Please let me know if you need any assistance.",ham
+"The office will be closed on Friday.",ham
+"Your class has been rescheduled to Monday.",ham
+"I will send the meeting agenda shortly.",ham
+"Thank you for attending the training session.",ham
